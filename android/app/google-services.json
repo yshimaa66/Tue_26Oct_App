@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "216285665302",
+    "project_id": "quran-app-api",
+    "storage_bucket": "quran-app-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216285665302:android:0fc82b766aec190e85fd37",
+        "android_client_info": {
+          "package_name": "com.shimaa.tue_26oct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216285665302-fvaiev6cmbp3g81d0lhej7q154e4cqtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbe-xGK_PSEfcFj0sHzD0yyM8H1M7a_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216285665302-fvaiev6cmbp3g81d0lhej7q154e4cqtu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216285665302-oaj85pfi4svto23p9s89oovqlunl6aic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quranAppApi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
